@@ -1,0 +1,1 @@
+E:\deeplearning_tool\pytorch-YOLOv4-master\lithology-english-backup\train2-ele\6\113239\40480.JPG 2293,2387 
